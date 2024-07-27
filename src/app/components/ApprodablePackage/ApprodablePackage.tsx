@@ -22,7 +22,7 @@ export default function ApprodablePackage() {
       }}
     >
       <Typography variant="h6" sx={{ color: iconColor }}>Practice Advice</Typography>
-      <Typography variant="h2" sx={{ color: '#252B42', mt: 2 }}>Approdable Packages</Typography>
+      <Typography variant="h3" sx={{ color: '#252B42', mt: 2 }}>Approdable Packages</Typography>
       <Typography variant="body1" sx={{ color: '#737373', mt: 2, textAlign: 'center' }}>
         Problems trying to resolve the conflict between
         the two major realms of Classical physics: Newtonian mechanics
